@@ -1,3 +1,5 @@
+Based on the concept of [Cellular Automata](https://en.wikipedia.org/wiki/Cellular_automaton)
+
 ## Setting up the project :rocket:
 
 This project can be built and executed with the [Haskell Tool Stack](https://docs.haskellstack.org/)
